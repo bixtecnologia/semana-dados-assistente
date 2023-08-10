@@ -1,0 +1,669 @@
+
+
+
+
+
+Blog | BIX Tecnologia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Ir para o conteúdo
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Sobre nós
+Soluções
+
+Alternar menu
+
+
+
+
+
+Engenharia de Dados
+
+
+Consultoria de Business Intelligence
+
+
+Consultoria de Ciência de Dados
+
+
+Sistemas
+
+
+Transformação Digital
+
+
+Cursos e Treinamentos
+
+
+Licenças
+
+
+Ferramentas
+
+Alternar menu
+
+
+
+
+
+Google Cloud
+
+
+Databricks
+
+
+Qlik Sense
+
+
+PowerBI
+
+
+Python
+
+
+Carreiras
+Blog
+Semana de Dados
+Contato
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Main Menu
+
+ 
+
+
+
+
+
+
+
+
+
+Sobre nós
+Soluções
+
+Alternar menu
+
+
+
+
+
+Engenharia de Dados
+
+
+Consultoria de Business Intelligence
+
+
+Consultoria de Ciência de Dados
+
+
+Sistemas
+
+
+Transformação Digital
+
+
+Cursos e Treinamentos
+
+
+Licenças
+
+
+Ferramentas
+
+Alternar menu
+
+
+
+
+
+Google Cloud
+
+
+Databricks
+
+
+Qlik Sense
+
+
+PowerBI
+
+
+Python
+
+
+Carreiras
+Blog
+Semana de Dados
+Contato
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOG DA BIX TECNOLOGIA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Pesquisar
+
+ Pesquisar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Databricks, agora em parceria com a BIX Tecnologia  
+
+
+
+Equipe BIX Tecnologia 
+
+20 de julho de 2023 
+
+
+Databricks, a plataforma de Engenharia de Dados que combina os formatos Data Lake e Data Warehouse, é a mais nova parceria da BIX Tecnologia. Agora,
+
+
+
+Leia mais » 
+
+
+
+
+
+
+
+
+
+
+Noite dos Dados Joinville: Mais uma edição de sucesso 
+
+
+
+Equipe BIX Tecnologia 
+
+26 de junho de 2023 
+
+
+A Noite dos Dados chegou em Joinville no dia 22 de junho, com convidados especiais, temas quentes no mercado e cases de sucesso. Nessa edição,
+
+
+
+Leia mais » 
+
+
+
+
+
+
+
+
+
+
+Desvendando as diferenças entre Data Lake, Data Warehouse e Data Lakehouse 
+
+
+
+Equipe BIX Tecnologia 
+
+6 de junho de 2023 
+
+
+Na era do Big Data, as empresas enfrentam o desafio de gerenciar e aproveitar eficientemente grandes quantidades de informações para impulsionar o crescimento e obter
+
+
+
+Leia mais » 
+
+
+
+
+
+
+
+
+
+
+BIX Tecnologia recebe Troféu iNO.VC de “Startup do Ano” 
+
+
+
+Equipe BIX Tecnologia 
+
+30 de maio de 2023 
+
+
+É com enorme satisfação que anunciamos que a BIX Tecnologia foi reconhecida como Startup do Ano na terceira edição do Troféu iNO.VC, iniciativa promovida pelo
+
+
+
+Leia mais » 
+
+
+
+
+
+
+
+
+
+
+Noite dos Dados enche Centro de Inovação Blumenau mais uma vez 
+
+
+
+Equipe BIX Tecnologia 
+
+25 de maio de 2023 
+
+
+A Noite dos Dados voltou a Blumenau neste mês de maio e, mais uma vez, reuniu a comunidade da região, sempre com o objetivo de
+
+
+
+Leia mais » 
+
+
+
+
+
+
+
+
+
+
+IA Generativa 101: aprenda tudo sobre a tecnologia por trás do ChatGPT 
+
+
+
+Equipe BIX Tecnologia 
+
+19 de maio de 2023 
+
+
+Se você acompanha o noticiário tech, com certeza já ouviu falar em ferramentas como ChatGPT e Dall-E. Elas nada mais são do que exemplos de
+
+
+
+Leia mais » 
+
+
+
+
+
+
+
+
+
+
+Como desenvolver um perfil analítico? 
+
+
+
+Equipe BIX Tecnologia 
+
+11 de maio de 2023 
+
+
+O mercado de trabalho cada vez mais exige que os profissionais tenham um perfil analítico – um requisito que sempre aparece na lista de soft
+
+
+
+Leia mais » 
+
+
+
+
+
+
+
+
+
+
+IA no BBB 23: Como a tecnologia está transformando a experiência do espectador 
+
+
+
+Equipe BIX Tecnologia 
+
+26 de abril de 2023 
+
+
+A 23ª edição do Big Brother Brasil chegou ao fim na última terça-feira (25), sagrando a médica Amanda Meirelles como a grande campeã do programa.
+
+
+
+Leia mais » 
+
+
+
+
+
+
+
+
+
+
+The Manifest nomeia BIX Tech uma das agências de serviços de TI mais avaliadas em Miami 
+
+
+
+Equipe BIX Tecnologia 
+
+21 de março de 2023 
+
+
+A equipe BIX Tecnologia tem o orgulho de anunciar que nossa operação internacional, a BIX Tech, foi recentemente nomeada uma das empresas de serviços de
+
+
+
+Leia mais » 
+
+
+
+
+
+
+< Anterior
+Página1
+Página2
+Página3
+…
+Página18
+Seguinte > 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consultoria de Dados com foco em resultados que atua de ponta a ponta na jornada analítica.
+ 
+
+
+
+
+
+Engenharia de Dados
+Business Intelligence
+Ciência de Dados
+Sistemas de Informação
+Cursos e Treinamentos
+Transformação Digital
+Licenças
+
+ 
+
+
+
+
+
+Google Cloud
+Qlik Sense
+Power BI
+Python
+Databricks
+
+ 
+
+
+
+
+
+Carreiras
+Blog
+Sobre nós
+Contato
+Campus BIX
+Semana de Dados
+Internacional
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
