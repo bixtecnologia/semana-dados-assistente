@@ -1,4 +1,4 @@
-# semana-dados-assistente
+# Semana de Dados - Assistente
 
 
 Código apresentando durante o tutorial Como treinar o ChatGPT com seus dados na Semana de Dados 2023
