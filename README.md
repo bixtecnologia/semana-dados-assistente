@@ -10,13 +10,13 @@ Aproveitar do conteúdo já disponível no site da empresa para criar um assiste
 
 ### Como
 
-Extração de dados textuais de um site através de web scrapping.
+- Extração de dados textuais de um site através de web scrapping.
 
-Utilizando os texto do site vamos utilizar de embeddings para extrair o significado das palavras em um texto através da similaridade semântica.
+- Utilizando os texto do site vamos utilizar de embeddings para extrair o significado das palavras em um texto através da similaridade semântica.
 
-O embedding será utilizado como contexto para criar um Conhecimento Customizado ou Custom Knowledge ao "ChatGPT". Assim, o assistente irá responder perguntas com base no conhecimento específico que foi disponibilizado ao assistente.
+- O embedding será utilizado como contexto para criar um Conhecimento Customizado ou Custom Knowledge ao "ChatGPT". Assim, o assistente irá responder perguntas com base no conhecimento específico que foi disponibilizado ao assistente.
 
-Disponibilizar uma interface onde o usuário pode fazer os questionamentos de forma simples
+- Disponibilizar uma interface onde o usuário pode fazer os questionamentos de forma simples
 
 
 ### Primeiros passos
